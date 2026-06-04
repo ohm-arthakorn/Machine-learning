@@ -3,3 +3,6 @@
 
 ## Overview
 - Linear Regression (การถดถอยเชิงเส้น)
+- Gradient Descent (การเคลื่อนลงด้วยความชัน)
+
+## Link Notion สำหรับการเรียนรู้ : https://app.notion.com/p/ohm-arthakorn/Machine-Learning-372310cda9978000b55adfb18c9f0d92?source=copy_link
